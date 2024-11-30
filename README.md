@@ -1,0 +1,2 @@
+# -MediScan-AI-Powered-Medical-Image-Analysis-for-Disease-Diagnosis-
+This project is particularly significant in today’s healthcare landscape, where early detection of diseases like diabetic retinopathy, glaucoma, and macular degeneration can prevent severe complications, including blindness. MediScan not only provides insights for diagnosis but also empowers medical practitioners to make informed decisions.
